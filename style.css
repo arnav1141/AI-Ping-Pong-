@@ -1,0 +1,17 @@
+.heading{
+    width:100%;
+}
+.heading h3{
+display:inline;
+color: gold;
+}
+.heading button{
+ float:right;
+ border:1px solid white;
+}
+#play{
+    font-size: 25px;
+}
+#status{
+    background-color: white;
+}
